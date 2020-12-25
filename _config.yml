@@ -7,7 +7,7 @@
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # --------------------------
-title: Yo Hgao  Tech                          # the main title
+title: Yo Hago Tech                          # the main title
 
 tagline: A Blog About Tech.  # it will display as the sub-title
 
@@ -28,7 +28,7 @@ twitter:
   username: scidroid            # change to your twitter username
 
 social:
-  name: SciDoid                  # it will shows as the copyright owner in Footer
+  name: SciDroid                  # it will shows as the copyright owner in Footer
   email: SciDroid@scidroid.live             # change to your email address
   links:
     # The first element serves as the copyright owner's link
