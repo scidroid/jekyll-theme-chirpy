@@ -7,35 +7,32 @@
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # --------------------------
-title: Chirpy                          # the main title
+title: Yo Hago Tech                          # the main title
 
-tagline: A text-focused Jekyll theme.  # it will display as the sub-title
+tagline: A place to talk about Tech.  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A minimal, portfolio, sidebar,
-  bootstrap Jekyll theme with responsive web design
-  and focuses on text presentation.
+Yo Hago Tech is a blog by a programming student who talks about his experience with projects and many other things.
 
 # fill in the base hostname & protocol for your site, e.g., 'https://username.github.io'
-url: ''
+url: 'https://yohago.tech'
 
-author: your_full_name                  # change to your full name
+author: SciDroid                  # change to your full name
 
-avatar: /assets/img/sample/avatar.jpg   # support internet resources
+avatar: /assets/img/favicon.png   # support internet resources
 
 github:
-  username: github_username             # change to your github username
+  username: scidroid             # change to your github username
 
 twitter:
-  username: twitter_username            # change to your twitter username
+  username: scidroid            # change to your twitter username
 
 social:
-  name: your_full_name                  # it will shows as the copyright owner in Footer
-  email: example@doamin.com             # change to your email address
+  name: SciDroid                  # it will shows as the copyright owner in Footer
+  email: info@yohago.tech             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username      # change to your twitter homepage
-    - https://github.com/username       # change to your github homepage
+    - https://github.com/scidroid       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
@@ -52,7 +49,7 @@ baseurl: ''
 timezone: Asia/Shanghai
 
 google_analytics:
-  id: ''          # Fill with your Google Analytics ID
+  id: 'G-MRS79Y0BFM'          # Fill with your Google Analytics ID
   pv:
     # The Google Analytics pageviews switch.
     # DO NOT enable it unless you know how to deploy the Google Analytics superProxy.
@@ -63,8 +60,8 @@ google_analytics:
     cache: false  # pv data local cache, good for the users from GFW area.
 
 disqus:
-  comments: false  # boolean type, the global switch for posts comments.
-  shortname: ''    # Fill with your Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
+  comments: true  # boolean type, the global switch for posts comments.
+  shortname: 'yo-hago-tech'    # Fill with your Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
 
 
 # Prefer color scheme setting.
