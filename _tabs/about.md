@@ -10,5 +10,4 @@ order: 4
 # MIT License
 ---
 
-
-> **Note**: Add Markdown syntax content to file `_tabs/about.md` and it will show up on this page.
+Hello, welcome to my blog, in this blog i go to post interesting news, posts and other things abut tech and code.
