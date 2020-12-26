@@ -10,7 +10,7 @@ pin: true
 
 This is the first blogpost in Yo  Hago Tech my personal blog of tech and other interesting things, in this blogpost i go to publish a random code snippet of my gist profile.
 
-![My Gist Profile](https://yohago.tech/assets/img/sample/gist.png) {.left}  _Gist Profile_
+![My Gist Profile](https://yohago.tech/assets/img/sample/gist.png) _Gist Profile_
 
 ```python
 # importa la librería time que permite trabajar con la fecha y hora del sistema
