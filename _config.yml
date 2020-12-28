@@ -26,10 +26,13 @@ github:
 
 twitter:
   username: scidroid            # change to your twitter username
+  card: 
+
+logo: https://yohago.tech/assets/img/sample/avatar.png
 
 social:
   name: SciDroid                  # it will shows as the copyright owner in Footer
-  email: SciDroid@scidroid.live             # change to your email address
+  email: hello@yohago.tech             # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://github.com/scidroid       # change to your github homepage
