@@ -1,0 +1,17 @@
+{
+    "name": "Yo Hago Tech",
+    "short_name": "Yo Hago Tech",
+    "description": "A blog from a programming student that love tech.",
+    "start_url": "https://yohago.tech",
+    "scope": "",
+    "display": "standalone",
+    "lang": "English",
+    "orientation": "any"
+    "icons": [
+        {
+          "src": "\/assets\/img\/favicons\/android-icon-192x192.png",
+          "sizes": "192x192",
+          "type": "image\/png"
+        }
+    ]
+}
