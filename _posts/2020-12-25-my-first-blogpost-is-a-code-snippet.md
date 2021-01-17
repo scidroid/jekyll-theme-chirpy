@@ -3,14 +3,24 @@ title: My first blogpost is a code snippet
 author: SciDroid
 date: 2020-12-25 22:45:00 -0500 
 categories: [Code, Snippets] 
-tags: [snippet, python] # TAG names should always be lowercase 
-toc: false
-pin: true
+tags: [snippet, python] 
+toc: true
+img: https://yohago.tech/assets/img/sample/gist.png
+typeog: article
+url: https://yohago.tech/posts/my-first-blogpost-is-a-code-snippet
+description: This is the first blogpost in Yo  Hago Tech my personal blog of tech and other interesting things, i...
+timeiso: 2020-12-15
+ogsection: code
+ogtag: python
 ---
+
+## Information
 
 This is the first blogpost in Yo  Hago Tech my personal blog of tech and other interesting things, in this blogpost i go to publish a random code snippet of my gist profile.
 
 ![My Gist Profile](https://yohago.tech/assets/img/sample/gist.png) _Gist Profile_
+
+## Snippet
 
 ```python
 # importa la librería time que permite trabajar con la fecha y hora del sistema
@@ -73,4 +83,4 @@ while n >= 0:  # Habilita el ciclo While
         sleep(3)
 ```
 
-Thanks for reading
+Thanks for reading.
