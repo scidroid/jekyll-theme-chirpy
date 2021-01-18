@@ -209,7 +209,7 @@ Ok now we are going to make an exercise to put in practice all that we learned, 
 
 **ATTENTION: DO NOT GO TO THE RESULT IF YOU HAVE NOT DONE THE EXERCISE, THE ONLY WAY TO LEARN IS TO PRACTICE.**
 
-If you want to see how to solve it, click on the reference next to this[^exerciseOne].
+If you want to see how to solve it, [click here](https://test.yohago.tech/posts/learning-to-code-in-python/#exercise-one).
 
 ## Data Types
 
@@ -296,9 +296,6 @@ If you want to see how to solve it, click on the reference next to this[^exercis
 **WARNING: IF YOU HAVEN'T DONE THE EXERCISES GO BACK UPSTAIRS AND DO THEM, IF YOU DON'T DO THEM THIS TUTORIAL WILL BE USELESS.**
 
 ### Exercise One 
-
-
-[^exerciseOne]: This is the resolution to the exercise.
 
 ```python
 # this code asks for the user's age and then displays it on the screen.
