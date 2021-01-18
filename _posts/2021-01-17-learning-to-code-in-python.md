@@ -11,7 +11,7 @@ categories: [Tutorial, Python]
 tags: [Python, Code]
 toc: true
 comments: true
-img: https://test.yohago.tech/assets/img/sample/sample/
+img: https://yohago.tech/assets/img/sample/python.svg/
 description: Learn to program in Python, a high-level, interpreted, multi-paradigm language used for Web with Flask and Django, Artificial Intelligence and Data Science.
 ---
 
@@ -54,6 +54,8 @@ Python is a widely-used, interpreted, object-oriented, and high-level programmin
 **Text By [Python Institute](https://pythoninstitute.org/what-is-python/).**
 
 ## The Basics
+
+Before starting it should be clarified that this is a basic tutorial, Python is a very extensive language, for example there are an infinite number of methods in the types of data or an overwhelming amount of things we can do in Object-Oriented Programming but in this tutorial we will not see, but I will bring more tutorials with more complex things.
 
 To start programming we have to start with the basics, we will install Python, a code editor and learn the most basic things of Python.
 
@@ -209,17 +211,91 @@ Ok now we are going to make an exercise to put in practice all that we learned, 
 
 **ATTENTION: DO NOT GO TO THE RESULT IF YOU HAVE NOT DONE THE EXERCISE, THE ONLY WAY TO LEARN IS TO PRACTICE.**
 
-If you want to see how to solve it, [click here](/#exercise-one).
+If you want to see how to solve it, [click here](/posts/learning-to-code-in-python/#exercise-one).
 
 ## Data Types
 
+Now let's talk about the data types in Python, each one has unique properties so let's see all of them.
+
 ### Strings
+
+Strings are free text variables, in them we can do anything, and we have to be careful with that because it doesn't matter what a number is if it is in a string, it will be treated as if it were text.
+
+```python
+string = "This is a string."
+```
+
+All strings are enclosed in quotes, they can be double quotes (") or single quotes (').
+
+In the strings we have a special property, we can create strings that are going to be shown exactly as they are, counting line breaks, this serves us for example to place ASCII art in our scripts, for it we must place 3 double quotes (""") at the beginning and at the end.
+
+We are going to see an example.
+
+```python
+katana = """,_._._._._._._._._|__________________________________________________________,
+|_|_|_|_|_|_|_|_|_|_________________________________________________________/
+                  ! """
+print(katana)
+```
+if we execute this code this will be the result.
+
+```console
+,_._._._._._._._._|__________________________________________________________,
+|_|_|_|_|_|_|_|_|_|_________________________________________________________/
+                  !
+```
 
 ### Integers
 
+Integers are numbers that, as their name implies, are integers, that is, they do not have a decimal place. Let's see an example.
+
+```python
+integer = 5
+```
+
 ### Floats
 
+Floats are very similar to integers, the only difference is that they always have a decimal place.
+
+```python
+floating = 4.53
+```
+
+It should be noted that both integers and floats accept positive and negative numbers.
+
 ### Booleans
+
+Booleans are very interesting types of data because there are only 2 'True' and 'False', and as its name says it means true and false, and these are written as they come out here with the first letter in capital letters, this type of data will serve us when we talk about flow control.
+
+Let's see an example in code.
+
+```python
+outOfALoop = True
+```
+
+### Transforming data types
+
+Now what happens if we have a type of data and we want to transform it into others, for that we have the following functions represented in the tables.
+
+|Function |what does                 |
+|:--------|--------------------------:
+|int()    |transforms into an integer|
+|float()  |transforms into an float  |
+|str()    |transform into an string  |
+
+These work exactly the same way when you pass them a variable and transform it into another type of data and this is especially useful when we use things like `input()`, which you should keep in mind that anything can be transformed into a string, but only numbers within a string can be converted to float or integer.
+
+Let's make an example of how we can use this.
+
+```python
+lifes = "5"
+int(lifes)
+```
+In this little script what we do is take the variable called "lifes" which is a number in string form and transform it into an integer type.
+
+## Operators
+
+## Exercise
 
 ## Arrays
 
