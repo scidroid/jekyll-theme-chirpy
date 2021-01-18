@@ -11,13 +11,13 @@ categories: [Tutorial, Python]
 tags: [Python, Code]
 toc: true
 comments: true
-img: https://yohago.tech/assets/img/sample/sample/
+img: https://test.yohago.tech/assets/img/sample/sample/
 description: Learn to program in Python, a high-level, interpreted, multi-paradigm language used for Web with Flask and Django, Artificial Intelligence and Data Science.
 ---
 
 ## About Python
 
-![Python Logo](https://yohago.tech/assets/img/sample/python.svg){: width="240" .left}
+![Python Logo](https://test.yohago.tech/assets/img/sample/python.svg){: width="240" .left}
 Python is a widely-used, interpreted, object-oriented, and high-level programming language with dynamic semantics, used for general-purpose programming. It was created by Guido van Rossum, and first released on February 20, 1991.
 
 
@@ -63,7 +63,7 @@ The first thing we must do is go to the Python website at <https://python.org>
 
 Click on the download section and download the version compatible with your computer.
 
-![Python Downloads Section](https://yohago.tech/assets/img/sample/downloadpython.png) __Download Section__
+![Python Downloads Section](https://test.yohago.tech/assets/img/sample/downloadpython.png) __Download Section__
 
 When you have downloaded it, just execute the file, BEFORE INSTALLING MAKE SURE THAT THE OPTION THAT SAYS *ADD TO PATH* IS ACTIVATED.
 
@@ -75,7 +75,7 @@ After installing Python search for Sublime Text in Google and select the option 
 
 When you are in the download menu you only have to select the option compatible with your operating system, when it has been downloaded you install it. 
 
-![Download Sublime](https://yohago.tech/assets/img/sample/downloadsublime.png) __Sublime's Download Menu__
+![Download Sublime](https://test.yohago.tech/assets/img/sample/downloadsublime.png) __Sublime's Download Menu__
 
 ### REPL
 
@@ -119,7 +119,7 @@ Before we start we must activate the file name view.
 
 In Windows you must go to the file explorer in the view section and activate the option called File Name Extension.
 
-![Activate Extensions](https://yohago.tech/assets/img/sample/Extensions.png) __This is the Spanish menu, just look for the option that says File Name Extensions.__
+![Activate Extensions](https://test.yohago.tech/assets/img/sample/Extensions.png) __This is the Spanish menu, just look for the option that says File Name Extensions.__
 
 To create our executable we open Sublime Text, press Ctrl+N and then Ctrl+S, here you name the file followed by the extension .py and save the file in a path you remember so you can later enter that path from the terminal.
 
