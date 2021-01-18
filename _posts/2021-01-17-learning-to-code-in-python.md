@@ -209,7 +209,7 @@ Ok now we are going to make an exercise to put in practice all that we learned, 
 
 **ATTENTION: DO NOT GO TO THE RESULT IF YOU HAVE NOT DONE THE EXERCISE, THE ONLY WAY TO LEARN IS TO PRACTICE.**
 
-If you want to see how to solve it, [click here](https://test.yohago.tech/posts/learning-to-code-in-python/#exercise-one).
+If you want to see how to solve it, [click here](/#exercise-one).
 
 ## Data Types
 
@@ -252,6 +252,8 @@ If you want to see how to solve it, [click here](https://test.yohago.tech/posts/
 ### While
 
 ### For
+
+### Recursion
 
 ## Try and Except
 
