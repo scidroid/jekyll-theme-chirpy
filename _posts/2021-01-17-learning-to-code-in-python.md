@@ -75,7 +75,7 @@ After installing Python search for Sublime Text in Google and select the option 
 
 When you are in the download menu you only have to select the option compatible with your operating system, when it has been downloaded you install it. 
 
-![Download Sublime](https://test.yohago.tech/assets/img/sample/downloadsublime.png) __Sublime's Download Menu__
+![Download Sublime](https://test.yohago.tech/assets/img/sample/downloadsublime.PNG) __Sublime's Download Menu__
 
 ### REPL
 
