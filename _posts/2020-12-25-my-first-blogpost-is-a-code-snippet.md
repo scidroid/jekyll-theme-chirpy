@@ -5,7 +5,7 @@ date: 2020-12-25 22:45:00 -0500
 categories: [Code, Snippets] 
 tags: [snippet, python] 
 toc: true
-img: https://yohago.tech/assets/img/sample/gist.png
+img: https://cdn.yohago.tech/img/gist.png
 typeog: article
 url: https://yohago.tech/posts/my-first-blogpost-is-a-code-snippet
 description: This is the first blogpost in Yo  Hago Tech my personal blog of tech and other interesting things, i...
@@ -18,7 +18,7 @@ ogtag: python
 
 This is the first blogpost in Yo  Hago Tech my personal blog of tech and other interesting things, in this blogpost i go to publish a random code snippet of my gist profile.
 
-![My Gist Profile](https://yohago.tech/assets/img/sample/gist.png) _Gist Profile_
+![My Gist Profile](https://cdn.yohago.tech/img/gist.png) _Gist Profile_
 
 ## Snippet
 

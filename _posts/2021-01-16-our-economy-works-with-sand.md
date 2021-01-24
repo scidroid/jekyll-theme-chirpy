@@ -11,7 +11,7 @@ categories: [History, Technology]
 tags: [Silicon, History]
 toc: true
 comments: true
-img: https://yohago.tech/assets/img/sample/sample/sand.jpg
+img: https://cdn.yohago.tech/img/sand.jpg
 description: Yes, although it seems incredible what I am saying, our economy works with sand. well, not exactly, it is a component of sand called silicon.
 ---
 
@@ -19,13 +19,13 @@ description: Yes, although it seems incredible what I am saying, our economy wor
 
 Yes, although it seems incredible what I am saying our economy works with sand. well, not exactly, it is a component of sand called **silicon**.
 
-![Sand](https://yohago.tech/assets/img/sample/sand.jpg) __Sand, Photo by [Louis](https://www.pexels.com/@louis-965146)__
+![Sand](https://cdn.yohago.tech/img/sand.jpg) __Sand, Photo by [Louis](https://www.pexels.com/@louis-965146)__
 
 ### What is Silicon?
 
 Silicon is the most abundant chemical element in the world, this is formed in the megastars when two oxygen atoms are joined and when they explode in a supernova they spread all over the universe, this is the aspect of silicon.
 
-![Silicon](https://yohago.tech/../../../assets/img/sample/silicon.jpg) __Silicon, Photo by [greschoj](https://www.freeimages.com/es/photographer/greschoj-64534)__
+![Silicon](https://cdn.yohago.tech/img/silicon.jpg) __Silicon, Photo by [greschoj](https://www.freeimages.com/es/photographer/greschoj-64534)__
 
 Maybe at this moment you are saying ***"That cannot be the most abundant element in the world, I have never seen that in my life"***, but it is because it is a block of pure silicon, the most common way to find it is in sand, this because it is a substance that does not corrode easily and with the passage of time most of the components of the sand go away but the silicon remains, well not exactly silicon, what really remains is silicon dioxide which is a mixture between silicon and oxygen, better known as quartz, and this is another very common way to find it, because normally this is found in forests as a kind of white rock that is found between stones or loose as crystals that are geometrically perfect and very transparent. In addition, silicon forms the silicates, some of which are the base of the terrestrial mantle, which makes it the most abundant material on the planet.
 
@@ -39,7 +39,7 @@ For this we are going to talk a little bit about the history of computing. Befor
 
 But they were enormous, so transistor-based computers were created, which is a small electrical circuit with which we can control whether or not electricity passes through, but with the passage of time we needed more and more power, and we discovered that we could take silicon and make millions of microscopic transistors inside and thus microprocessors were born.
 
-![MicroChips](https://yohago.tech/assets/img/sample/chips.jpg)___MicroChips, Photo by [ Shelly](https://www.pexels.com/@shellystill)__
+![MicroChips](https://cdn.yohago.tech/img/chips.jpg)___MicroChips, Photo by [ Shelly](https://www.pexels.com/@shellystill)__
 
 ### How do you transform sand into processors?
 
@@ -51,7 +51,7 @@ But, we reach a point where it is increasingly difficult to make them smaller an
 
 When a wafer is finished it looks like this.
 
-![Silicon Wafer](https://yohago.tech/assets/img/sample/plate.jpg) __Silicon Wafer, Photo by [fabersam](https://pixabay.com/users/fabersam-98886/)__
+![Silicon Wafer](https://cdn.yohago.tech/img/plate.jpg) __Silicon Wafer, Photo by [fabersam](https://pixabay.com/users/fabersam-98886/)__
 
 Then it is only cut to make way for microprocessors.
 

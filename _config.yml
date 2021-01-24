@@ -19,7 +19,7 @@ url: 'https://yohago.tech'
 
 author: SciDroid # change to your full name
 
-avatar: https://yohago.tech/assets/img/sample/avatar.png   # support internet resources
+avatar: https://cdn.yohago.tech/img/avatar.png   # support internet resources
 
 github:
   username: scidroid             # change to your github username

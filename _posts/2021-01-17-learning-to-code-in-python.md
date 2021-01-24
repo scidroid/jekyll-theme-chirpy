@@ -11,13 +11,13 @@ categories: [Tutorial, Python]
 tags: [Python, Code]
 toc: true
 comments: true
-img: https://yohago.tech/assets/img/sample/python.svg/
+img: https://cdn.yohago.tech/img/python.svg/
 description: Learn to program in Python, a high-level, interpreted, multi-paradigm language used for Web with Flask and Django, Artificial Intelligence and Data Science.
 ---
 
 ## About Python
 
-![Python Logo](https://test.yohago.tech/assets/img/sample/python.svg){: width="240" .left}
+![Python Logo](https://cdn.yohago.tech/img/python.svg){: width="240" .left}
 Python is a widely-used, interpreted, object-oriented, and high-level programming language with dynamic semantics, used for general-purpose programming. It was created by Guido van Rossum, and first released on February 20, 1991.
 
 
@@ -65,7 +65,7 @@ The first thing we must do is go to the Python website at <https://python.org>
 
 Click on the download section and download the version compatible with your computer.
 
-![Python Downloads Section](https://test.yohago.tech/assets/img/sample/downloadpython.png) __Download Section__
+![Python Downloads Section](https://cdn.yohago.tech/img/downloadpython.png) __Download Section__
 
 When you have downloaded it, just execute the file, BEFORE INSTALLING MAKE SURE THAT THE OPTION THAT SAYS *ADD TO PATH* IS ACTIVATED.
 
@@ -77,7 +77,7 @@ After installing Python search for Sublime Text in Google and select the option 
 
 When you are in the download menu you only have to select the option compatible with your operating system, when it has been downloaded you install it. 
 
-![Download Sublime](https://test.yohago.tech/assets/img/sample/downloadsublime.PNG) __Sublime's Download Menu__
+![Download Sublime](https://cdn.yohago.tech/img/downloadsublime.PNG) __Sublime's Download Menu__
 
 ### REPL
 
@@ -121,7 +121,7 @@ Before we start we must activate the file name view.
 
 In Windows you must go to the file explorer in the view section and activate the option called File Name Extension.
 
-![Activate Extensions](https://test.yohago.tech/assets/img/sample/Extensions.png) __This is the Spanish menu, just look for the option that says File Name Extensions.__
+![Activate Extensions](https://cdn.yohago.tech/img/Extensions.png) __This is the Spanish menu, just look for the option that says File Name Extensions.__
 
 To create our executable we open Sublime Text, press Ctrl+N and then Ctrl+S, here you name the file followed by the extension .py and save the file in a path you remember so you can later enter that path from the terminal.
 
@@ -288,12 +288,31 @@ These work exactly the same way when you pass them a variable and transform it i
 Let's make an example of how we can use this.
 
 ```python
-lifes = "5"
+lives = "5"
 int(lifes)
 ```
 In this little script what we do is take the variable called "lifes" which is a number in string form and transform it into an integer type.
 
 ## Operators
+
+Operators are useful for many things in Python, for example you can use them to compare, do mathematical operations or make relationships, they exist of different types and let's see them.
+
+### Assignment operators
+
+|operator|use                                                          |
+|:-------|------------------------------------------------------------:|
+|=       |assigns the value to a variable                              |
+|+=      |adds the value to the variable                               |
+|-=      |subtracts the value of the variable                          |
+|*=      |multiplies the value to the variable                         |
+|/=      |divides the value to the variable                            |
+|**=     |calculates the exponent of the value of the variable         |
+|//=     |calculates the integer division of the value of the variable |
+|%=      |returns the rest of the division of the value of the variable|
+
+Let's put an example that we want to make a script where you can place a year and your year of birth and you get how old you will be in that year.
+
+
 
 ## Exercise
 
