@@ -19,11 +19,9 @@
   icon: 'fas fa-rss'
   noblank: true
 
-# Uncomment and complete the url below to enable more contact options
-# -
-#   type: mastodon
-#   icon: 'fab fa-mastodon'   # icons powered by <https://fontawesome.com/>
-#   url:  ''                  # Fill with your mastodon account page
+ type: mastodon
+ icon: 'fab fa-dev'  
+ url:  'https://dev.to/scidroid'
 # -
 #   type: linkedin
 #   icon: 'fab fa-linkedin'   # icons powered by <https://fontawesome.com/>
