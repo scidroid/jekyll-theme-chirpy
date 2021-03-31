@@ -7,8 +7,8 @@ ogsection: Tutorial
 ogtag: Python
 author: SciDroid
 date: 2021-03-30 22:00 -0500
-categories: [Tutorial, Python]
-tags: [Python, Code]
+categories: [tutorial, python]
+tags: [python, code]
 toc: true
 comments: true
 img: https://cdn.yohago.tech/img/python.svg/
